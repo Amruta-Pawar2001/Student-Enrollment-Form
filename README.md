@@ -12,6 +12,9 @@ This project is a application of jsonpowerdb and web development.
 So, the data is uploaded successfully by just connecting with the connection token and using the endpointurl.
 
 Key requirements:
+
 Http method : POST
+
 Base url : http://api.login2explore.com:5577
+
 End-point url : /api/iml (mentioned in command when different)
