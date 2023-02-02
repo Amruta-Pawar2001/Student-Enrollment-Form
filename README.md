@@ -18,3 +18,5 @@ Http method : POST
 Base url : http://api.login2explore.com:5577
 
 End-point url : /api/iml (mentioned in command when different)
+
+JsonDB is multiple times faster than popular DBMS and it provides serverless support.
